@@ -6,7 +6,12 @@ const fonts = [
       'fonts/source_sans_pro/SourceSansPro-Italic.ttf',
     ]
   },
-  // Add more fonts as needed
+  {
+    name: 'Recursive',
+    urls: [
+      'fonts/Recursive/Recursive-VF.ttf',
+    ]
+  },
 ];
 
 function populateFontList() {
